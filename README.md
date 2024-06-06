@@ -11,11 +11,15 @@ Olá! Eu sou o Bruno Campos✋
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bruno-Python" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=129&color=currentColor">
+  <img align="center" alt="Bruno-mysql" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=129&color=currentColor">
+  <img align="center" alt="Bruno-nodejs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=129&color=currentColor">
+  <img align="center" alt="Bruno-postgresql" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=129&color=currentColor">
+  <img align="center" alt="Bruno-react" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=129&color=currentColor">
+  <img align="center" alt="Bruno-react" height="30" width="40" src="https://icongr.am/devicon/linkedin-original.svg?size=129&color=currentColor">
 </div>
   
   ##
  
 <div> 
   <a href="https://www.youtube.com/channel/UC5gXNQP8trqRYwiXOdpGeVw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/brun_nunu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-campos-barbosa-958596217/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg?size=129&color=currentColor" target="_blank"></a>
