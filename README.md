@@ -22,4 +22,4 @@ Olá! Eu sou o Bruno Campos✋
  
 <div> 
   <a href="https://www.youtube.com/channel/UC5gXNQP8trqRYwiXOdpGeVw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-campos-barbosa-958596217/" target="_blank"><img src="https://icongr.am/devicon/linkedin-original.svg?size=129&color=currentColor" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-campos-barbosa-958596217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
